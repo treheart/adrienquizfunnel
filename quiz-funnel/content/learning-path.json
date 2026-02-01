@@ -1,0 +1,144 @@
+{
+  "loading": {
+    "messages": [
+      "Analyzing your bottlenecks...",
+      "Identifying automation opportunities...",
+      "Building your personalized roadmap...",
+      "Calculating potential ROI...",
+      "Finalizing your action plan..."
+    ],
+    "suspenseFallback": "Loading..."
+  },
+
+  "timer": {
+    "label": "Limited availability:",
+    "button": "Book Your Call"
+  },
+
+  "labels": {
+    "yourFocus": "Your focus",
+    "yourGoal": "Your goal",
+    "newOffer": "Recommended",
+    "whatsIncluded": "What's included:",
+    "whatYoullAchieve": "What you'll achieve:",
+    "basedOnQuizResults": "Based on your assessment:",
+    "yourBottleneck": "Your bottleneck:",
+    "testimonialsHeading": "Companies we've helped",
+    "footer": "Powered by Akari Social"
+  },
+
+  "pricing": {
+    "amount": "Free Strategy Call",
+    "subtitle": "30-minute call to map your automation roadmap.",
+    "getYourTitle": "Book Your {offerTitle}",
+    "bonuses": [
+      "Custom automation roadmap",
+      "ROI projection for your business"
+    ],
+    "notReadyText": "Not ready for a call?",
+    "notReadyLink": "Get our free automation checklist instead."
+  },
+
+  "finalCta": {
+    "heading": "Ready to stop the bleeding, {name}?",
+    "subheading": "Book a free 30-minute strategy call. We'll map out exactly what to automate first.",
+    "button": "Book My Call",
+    "notReadyLink": "Not ready? Get our free automation checklist instead."
+  },
+
+  "paths": {
+    "A": {
+      "focus": "Operations",
+      "goal": "Eliminate Chaos",
+      "headline": "Your Operations Automation Roadmap",
+      "description": "{name}, we've identified the exact automations that will eliminate the chaos and give your team clarity. Here's your personalized fix.",
+      "offerTitle": "Operations Strategy Call",
+      "offerDescription": "Map out the systems that will end missed deadlines and team confusion for good.",
+      "image": "/emerging_wizard_.png",
+      "included": [
+        { "title": "PM System Setup", "description": "Get the right project management system configured for your workflow" },
+        { "title": "Meeting-to-Tasks Automation", "description": "Automatically capture and assign action items from every meeting" },
+        { "title": "Client Onboarding Automation", "description": "Consistent, professional onboarding that runs itself" }
+      ],
+      "achievements": [
+        "Zero missed deadlines",
+        "Clear task ownership across your team",
+        "Clients onboarded smoothly every time"
+      ],
+      "testimonials": [
+        {
+          "quote": "We went from constant fire drills to actually having breathing room. The meeting automation alone saved us 5 hours a week.",
+          "name": "Sarah Chen",
+          "role": "Operations Director, 32-person agency"
+        },
+        {
+          "quote": "Client onboarding used to be our biggest source of complaints. Now it's our biggest source of compliments.",
+          "name": "Marcus Williams",
+          "role": "Founder, Marketing Agency"
+        }
+      ]
+    },
+    "B": {
+      "focus": "Revenue",
+      "goal": "Stop the Leakage",
+      "headline": "Your Revenue Automation Roadmap",
+      "description": "{name}, we've identified exactly where money is slipping through the cracks. Here's your personalized fix to plug the leaks.",
+      "offerTitle": "Revenue Strategy Call",
+      "offerDescription": "Map out the automations that will speed up your sales cycle and improve cash flow.",
+      "image": "/scaling_wizard.png",
+      "included": [
+        { "title": "AI Proposal Generator", "description": "Turn days of proposal writing into hours with AI assistance" },
+        { "title": "Automated Follow-Up Sequences", "description": "Never let a deal die from neglect again" },
+        { "title": "Invoice & Payment Automation", "description": "Automated reminders and tracking to improve collections" }
+      ],
+      "achievements": [
+        "Proposals out in hours, not days",
+        "No more deals dying from lack of follow-up",
+        "Faster payments and better cash flow"
+      ],
+      "testimonials": [
+        {
+          "quote": "Our proposal turnaround went from 3 days to 4 hours. We're closing deals while competitors are still typing.",
+          "name": "David Rodriguez",
+          "role": "Sales Director, Tech Services"
+        },
+        {
+          "quote": "The follow-up automation recovered $47K in deals that would have died. In the first month.",
+          "name": "Lisa Thompson",
+          "role": "Founder, Consulting Firm"
+        }
+      ]
+    },
+    "C": {
+      "focus": "Retention",
+      "goal": "Delight Clients",
+      "headline": "Your Client Retention Roadmap",
+      "description": "{name}, we've identified exactly why clients aren't seeing your value. Here's your personalized fix to turn them into raving fans.",
+      "offerTitle": "Retention Strategy Call",
+      "offerDescription": "Map out the automations that will keep clients longer and generate more referrals.",
+      "image": "/creator_wizard.png",
+      "included": [
+        { "title": "Client Reporting Automation", "description": "Show your value automatically with beautiful, branded reports" },
+        { "title": "Review Request Automation", "description": "Get reviews and testimonials at the perfect moment, automatically" },
+        { "title": "CRM & Communication Systems", "description": "Proactive touchpoints that make clients feel valued" }
+      ],
+      "achievements": [
+        "Clients clearly see the value you deliver",
+        "Steady stream of reviews and testimonials",
+        "Proactive communication, not reactive firefighting"
+      ],
+      "testimonials": [
+        {
+          "quote": "Clients used to ask what we actually did for them. Now they send us referrals. The reporting automation changed everything.",
+          "name": "Amanda Foster",
+          "role": "Account Director, PR Agency"
+        },
+        {
+          "quote": "We went from 2 reviews a year to 2 reviews a month. Same clients, just asked at the right time.",
+          "name": "Ryan O'Brien",
+          "role": "Founder, Web Development Shop"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "labels": {
+    "bottleneckType": "Your Bottleneck Type",
+    "capabilityProfile": "Your Solution Profile",
+    "basedOnAnswers": "Based on your answers, {name}:",
+    "ctaHeading": "Ready to fix this, {name}?",
+    "ctaSubheading": "Get your personalized automation roadmap",
+    "emailPlaceholder": "Enter your email",
+    "getLearningPathButton": "Get My Roadmap",
+    "loadingButton": "Loading...",
+    "newsletterLink": "No thanks, just send me updates",
+    "subscribingButton": "Subscribing...",
+    "suspenseFallback": "Analyzing your answers..."
+  },
+
+  "pathResults": {
+    "A": {
+      "title": "Operations Chaos",
+      "subtitle": "SYSTEMS & PROCESS BREAKDOWN",
+      "description": "Your team is working hard, but work keeps falling through the cracks. Without proper systems, every project feels like reinventing the wheel — and your best people are burning out managing chaos instead of doing great work.",
+      "tags": ["#Operations", "#ProjectManagement", "#TeamEfficiency", "#Automation"],
+      "insights": [
+        "Missed deadlines are costing you client trust and revenue",
+        "Your team wastes hours every week on preventable confusion",
+        "Meeting action items disappear into the void",
+        "Client onboarding is inconsistent and stressful"
+      ]
+    },
+    "B": {
+      "title": "Revenue Leakage",
+      "subtitle": "SALES & CASH FLOW GAPS",
+      "description": "You're generating opportunities, but money is slipping through the cracks. Slow proposals let hot leads go cold, inconsistent follow-up kills deals, and unpaid invoices strangle your cash flow.",
+      "tags": ["#Revenue", "#Sales", "#Proposals", "#CashFlow"],
+      "insights": [
+        "Proposals take too long — leads lose interest and go elsewhere",
+        "Deals die because follow-ups don't happen consistently",
+        "Unpaid invoices are eating into your working capital",
+        "You're leaving money on the table every single month"
+      ]
+    },
+    "C": {
+      "title": "Client Retention Risk",
+      "subtitle": "RELATIONSHIP & VALUE GAPS",
+      "description": "Your clients don't fully see the value you deliver. Without proactive communication and clear reporting, they question whether you're worth it — and you're missing out on reviews and referrals that could fuel growth.",
+      "tags": ["#Retention", "#ClientSuccess", "#Reviews", "#Communication"],
+      "insights": [
+        "Clients ask 'what did we accomplish?' — they don't see your impact",
+        "You rarely get reviews or testimonials without begging",
+        "Communication is reactive — you're always putting out fires",
+        "Referrals are rare because clients aren't actively delighted"
+      ]
+    }
+  },
+
+  "personalizedInsights": {
+    "A": {
+      "Q1A": {
+        "small": "At your size, every dropped ball is visible — and fixable with the right systems.",
+        "medium": "Mid-size teams face the most chaos — too big for informal, too small for enterprise tools.",
+        "large": "At scale, operations chaos compounds fast — small fixes create massive ROI."
+      },
+      "Q2A": {
+        "none": "Starting fresh means you can implement the right systems without legacy baggage.",
+        "basic": "Your tools are fine — you need better processes and automation connecting them.",
+        "advanced": "You have the tools — now you need workflows that actually work for your team."
+      },
+      "Q3A": {
+        "meetings": "Meeting-to-task automation will instantly capture and assign action items.",
+        "onboarding": "Client onboarding automation ensures consistency and a great first impression.",
+        "handoffs": "Task handoff systems eliminate the 'I thought you were handling that' moments."
+      }
+    },
+    "B": {
+      "Q1B": {
+        "small": "At your size, one or two lost deals a month is a huge percentage of revenue.",
+        "medium": "Mid-size companies lose the most to slow processes — you need speed and consistency.",
+        "large": "At scale, even small improvements in close rate mean massive revenue gains."
+      },
+      "Q2B": {
+        "manual": "Manual proposals are killing your speed — automation can cut turnaround by 80%.",
+        "basic_crm": "Your CRM has data — now you need automation to act on it consistently.",
+        "proposal_software": "You have tools but need better workflows to actually speed things up."
+      },
+      "Q3B": {
+        "slow_proposals": "AI proposal generation can turn days into hours — before leads go cold.",
+        "no_followup": "Automated follow-up sequences ensure no deal dies from neglect.",
+        "unpaid_invoices": "Invoice reminders and tracking automate your collections process."
+      }
+    },
+    "C": {
+      "Q1C": {
+        "small": "At your size, losing even one client hurts — retention is everything.",
+        "medium": "Mid-size companies often outgrow their client communication — proactive systems help.",
+        "large": "At scale, systematic client success is the difference between growth and churn."
+      },
+      "Q2C": {
+        "email_only": "Email-only communication leaves clients feeling ignored between touchpoints.",
+        "basic_tools": "Your tools work — but automation can make communication proactive, not reactive.",
+        "fragmented": "Fragmented tools mean nothing talks to each other — clients fall through cracks."
+      },
+      "Q3C": {
+        "no_visibility": "Automated client reporting shows your value without you doing extra work.",
+        "no_reviews": "Review request automation gets you testimonials at the perfect moment.",
+        "reactive": "CRM automation keeps you proactive — clients feel cared for, not forgotten."
+      }
+    }
+  }
+}

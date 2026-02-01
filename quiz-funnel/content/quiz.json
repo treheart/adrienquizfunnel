@@ -1,0 +1,155 @@
+{
+  "nameInput": {
+    "heading": "Let's find the bottleneck killing your growth",
+    "label": "First name:",
+    "placeholder": "Enter your first name",
+    "button": "Find My Bottleneck"
+  },
+
+  "segmentSplitter": {
+    "question": "What's your biggest bottleneck right now, {name}?",
+    "options": [
+      {
+        "label": "Operations chaos — missed deadlines, things falling through cracks, team confusion",
+        "value": "A"
+      },
+      {
+        "label": "Revenue leakage — slow proposals, cold leads going stale, unpaid invoices",
+        "value": "B"
+      },
+      {
+        "label": "Client retention risk — clients asking 'what did we accomplish?', no reviews, reactive communication",
+        "value": "C"
+      }
+    ]
+  },
+
+  "pathA": {
+    "Q1A": {
+      "question": "What's your team size?",
+      "options": [
+        { "label": "5-15 people", "value": "small" },
+        { "label": "16-50 people", "value": "medium" },
+        { "label": "51-150 people", "value": "large" }
+      ]
+    },
+    "Q2A": {
+      "question": "What tools do you currently use for project management?",
+      "options": [
+        { "label": "Spreadsheets / Email / Nothing formal", "value": "none" },
+        { "label": "Basic tools (Trello, Asana, Monday)", "value": "basic" },
+        { "label": "Advanced tools but not working well", "value": "advanced" }
+      ]
+    },
+    "Q3A": {
+      "question": "Where does work fall through the cracks most often?",
+      "options": [
+        { "label": "Meeting action items never get done", "value": "meetings" },
+        { "label": "Client onboarding is messy and inconsistent", "value": "onboarding" },
+        { "label": "Tasks get lost between team members", "value": "handoffs" }
+      ]
+    },
+    "Q4A": {
+      "question": "How urgent is solving this?",
+      "options": [
+        { "label": "Critical — it's costing us clients and money now", "value": "critical" },
+        { "label": "Important — we need to fix it this quarter", "value": "important" },
+        { "label": "Nice to have — exploring options", "value": "exploring" }
+      ]
+    },
+    "Q5A": {
+      "question": "What would fixing this be worth to you monthly?",
+      "options": [
+        { "label": "$500-$2,000/month", "value": "low" },
+        { "label": "$2,000-$5,000/month", "value": "medium" },
+        { "label": "$5,000+/month", "value": "high" }
+      ]
+    }
+  },
+
+  "pathB": {
+    "Q1B": {
+      "question": "What's your team size?",
+      "options": [
+        { "label": "5-15 people", "value": "small" },
+        { "label": "16-50 people", "value": "medium" },
+        { "label": "51-150 people", "value": "large" }
+      ]
+    },
+    "Q2B": {
+      "question": "What tools do you currently use for sales/proposals?",
+      "options": [
+        { "label": "Manual proposals in Word/Google Docs", "value": "manual" },
+        { "label": "Basic CRM (HubSpot, Pipedrive)", "value": "basic_crm" },
+        { "label": "Proposal software but still slow", "value": "proposal_software" }
+      ]
+    },
+    "Q3B": {
+      "question": "Where is revenue leaking most?",
+      "options": [
+        { "label": "Proposals take too long — leads go cold", "value": "slow_proposals" },
+        { "label": "Follow-ups don't happen — deals die", "value": "no_followup" },
+        { "label": "Invoices go unpaid — cash flow suffers", "value": "unpaid_invoices" }
+      ]
+    },
+    "Q4B": {
+      "question": "How urgent is solving this?",
+      "options": [
+        { "label": "Critical — it's costing us clients and money now", "value": "critical" },
+        { "label": "Important — we need to fix it this quarter", "value": "important" },
+        { "label": "Nice to have — exploring options", "value": "exploring" }
+      ]
+    },
+    "Q5B": {
+      "question": "What would fixing this be worth to you monthly?",
+      "options": [
+        { "label": "$500-$2,000/month", "value": "low" },
+        { "label": "$2,000-$5,000/month", "value": "medium" },
+        { "label": "$5,000+/month", "value": "high" }
+      ]
+    }
+  },
+
+  "pathC": {
+    "Q1C": {
+      "question": "What's your team size?",
+      "options": [
+        { "label": "5-15 people", "value": "small" },
+        { "label": "16-50 people", "value": "medium" },
+        { "label": "51-150 people", "value": "large" }
+      ]
+    },
+    "Q2C": {
+      "question": "What tools do you currently use for client communication?",
+      "options": [
+        { "label": "Email only", "value": "email_only" },
+        { "label": "Basic CRM or project tool", "value": "basic_tools" },
+        { "label": "Multiple tools but no unified system", "value": "fragmented" }
+      ]
+    },
+    "Q3C": {
+      "question": "What's your biggest client retention issue?",
+      "options": [
+        { "label": "Clients don't see the value we deliver", "value": "no_visibility" },
+        { "label": "We rarely get reviews or referrals", "value": "no_reviews" },
+        { "label": "Communication is reactive, not proactive", "value": "reactive" }
+      ]
+    },
+    "Q4C": {
+      "question": "How urgent is solving this?",
+      "options": [
+        { "label": "Critical — we're losing clients now", "value": "critical" },
+        { "label": "Important — churn is creeping up", "value": "important" },
+        { "label": "Nice to have — want to improve retention", "value": "exploring" }
+      ]
+    },
+    "Q5C": {
+      "question": "What would fixing this be worth to you monthly?",
+      "options": [
+        { "label": "$500-$2,000/month", "value": "low" },
+        { "label": "$2,000-$5,000/month", "value": "medium" },
+        { "label": "$5,000+/month", "value": "high" }
+      ]
+    }
+  }
+}
